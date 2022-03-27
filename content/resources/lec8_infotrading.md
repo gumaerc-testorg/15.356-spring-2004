@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fffff608-2d54-9538-07d4-909c1684483a
 resourcetype: Document
 title: Trading and revealing Trading and revealing information
 uid: d7d38df8-4f1e-23ff-2164-cb3273df5df6

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fffff608-2d54-9538-07d4-909c1684483a
 resourcetype: Document
 title: The Lead User idea generation method
 uid: e219d9cd-e203-71f3-0dd4-58bfb4be35e6

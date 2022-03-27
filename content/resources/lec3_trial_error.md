@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fffff608-2d54-9538-07d4-909c1684483a
 resourcetype: Document
 title: 'Finding out what users need: "trial and error trial and error" and "sticky
   information"'
