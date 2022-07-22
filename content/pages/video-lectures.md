@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides video lectures for selected sessions of the course.
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 0c5ad11a-f48f-0111-de02-fa39a3b044bb
 ---

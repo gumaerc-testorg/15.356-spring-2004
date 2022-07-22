@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, readings, assignments, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 78425cf8-468b-a44b-203e-91602cfad9fe
 ---
@@ -17,7 +21,7 @@ Firms must develop major innovations to prosper but they often don't know how. R
 Course Readings
 ---------------
 
-All assigned readings are available from the campus copy center. A list of [readings]({{< baseurl >}}/pages/readings) with full citations is available online.
+All assigned readings are available from the campus copy center. A list of {{% resource_link 4c7c1c7f-12d0-dea1-9546-59ed84761700 "readings" %}} with full citations is available online.
 
 Assignments and Grading
 -----------------------
