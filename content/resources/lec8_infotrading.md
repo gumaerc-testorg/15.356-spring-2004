@@ -6,6 +6,7 @@ file: /courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Trading and revealing Trading and revealing information
 uid: d7d38df8-4f1e-23ff-2164-cb3273df5df6
 ---
 Lecture presentation on why people freely reveal their innovations to manufacturers, and informal information trading.
-

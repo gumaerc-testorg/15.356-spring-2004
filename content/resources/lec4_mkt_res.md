@@ -6,6 +6,7 @@ file: /courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quantitative Market Research for Incremental Improvement Innovations
 uid: 6a582996-818c-a28d-cc4a-48d4233548b2
 ---
 Lecture presentation on quantitative market research for incremental improvement.
-

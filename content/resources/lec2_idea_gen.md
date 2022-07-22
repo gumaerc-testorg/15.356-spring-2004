@@ -6,6 +6,7 @@ file: /courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Lead User idea generation method
 uid: e219d9cd-e203-71f3-0dd4-58bfb4be35e6
 ---
 Lecture presentation on systematic generation of ideas for "breakthrough" new products and services - the "Lead User Method."
-

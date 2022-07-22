@@ -6,6 +6,7 @@ file: /courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Shifting Innovation to Your Customers via Toolkits for User Innovation
 uid: acdc4e20-9fcf-daa0-6187-2dff9a322434
 ---
 Lecture presentation on shifting innovation to customers via toolkits for user innovation.
-
