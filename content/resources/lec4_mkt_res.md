@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on quantitative market research for incremental
   improvement.
 file: /courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/6a582996818ca28dcc4a48d4233548b2_lec4_mkt_res.pdf
+file_size: 90609
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
