@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on systematic generation of ideas for "breakthrough"
   new products and services - the "Lead User Method."
-file: /ol-ocw-studio-app/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/e219d9cde20371f30dd458bfb4be35e6_lec2_idea_gen.pdf
+file: /courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/e219d9cde20371f30dd458bfb4be35e6_lec2_idea_gen.pdf
 file_size: 638887
 file_type: application/pdf
 learning_resource_types:
