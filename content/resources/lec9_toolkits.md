@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on shifting innovation to customers via toolkits
   for user innovation.
-file: /ol-ocw-studio-app/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/acdc4e209fcfdaa061872dff9a322434_lec9_toolkits.pdf
+file: /courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/acdc4e209fcfdaa061872dff9a322434_lec9_toolkits.pdf
 file_size: 635898
 file_type: application/pdf
 learning_resource_types:
