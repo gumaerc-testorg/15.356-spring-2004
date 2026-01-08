@@ -34,7 +34,7 @@ VIDEOS
 Who Develops Breakthrough New Products and Services - Users or Manufacturers?
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "92bc60e2-86ab-47d5-b44b-fed0f15828ec" "MP4 - 118MB" %}})
+([MP4 - 118MB](https://archive.org/download/MIT15.356S04/mit-ocw-15.356-04feb2004-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +46,7 @@ Who Develops Breakthrough New Products and Services - Users or Manufacturers?
 Systematic Generation of Ideas for "Breakthrough" New Products and Services - the "Lead User Method"
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "b6084517-58ae-427e-a52f-55fe211fc859" "MP4 - 105MB" %}})
+([MP4 - 105MB](https://archive.org/download/MIT15.356S04/mit-ocw-15.356-09feb2004-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +72,7 @@ Systematic Generation of Incremental Improvements to Existing Products and Servi
 Traditional Marketing Research Concept Generation Techniques
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "996b0ec7-c90c-433c-906b-305a5454fe7d" "MP4 - 124MB" %}})
+([MP4 - 124MB](https://archive.org/download/MIT15.356S04/mit-ocw-15.356-01mar2004-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
